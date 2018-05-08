@@ -1,0 +1,25 @@
+
+
+.pad{
+  padding-top: 20px;
+}
+
+section.pad ul li {
+  list-style: none;
+
+  
+}
+section.pad ul li a
+{
+  color: #eee;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.margin
+{
+  margin-top:  100px;
+  background-color: #777;
+  border-radius: 5px;
+  padding:20px 0;
+}
